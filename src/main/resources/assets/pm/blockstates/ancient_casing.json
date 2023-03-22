@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "pm:block/ancient_casing_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "pm:block/ancient_casing"
+    },
+    "axis=z": {
+      "model": "pm:block/ancient_casing_horizontal",
+      "x": 90
+    }
+  }
+}

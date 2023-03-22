@@ -1,0 +1,11 @@
+{
+  "type": "pm:evolutionizing",
+  "ingredients": [
+    {
+      "item": "pm:terror_chicken_egg"
+    }
+  ],
+  "output": {
+    "item": "pm:test_recipe"
+  }
+}

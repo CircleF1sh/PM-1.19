@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "pm:items/dwarf_crocodile_bucket"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pm:variant": 0
+      },
+      "model": "pm:items/dwarf_crocodile_bucket"
+    },
+    {
+      "predicate": {
+        "pm:variant": 1
+      },
+      "model": "pm:items/dwarf_crocodile_1"
+      }
+    ]
+}

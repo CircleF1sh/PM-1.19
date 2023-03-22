@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "pm:blocks/ancient_casing_top",
+    "side": "pm:blocks/ancient_core"
+  }
+}

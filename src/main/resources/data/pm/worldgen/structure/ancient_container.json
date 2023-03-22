@@ -1,0 +1,31 @@
+{
+
+  "type": "minecraft:jigsaw",
+
+
+  "start_pool": "pm:ancient_container/start_pool",
+
+  "size": 2,
+
+  "max_distance_from_center": 80,
+
+
+  "biomes": "#pm:has_structure/ancient_container",
+
+
+  "step": "underground_structures",
+
+
+  "start_height": {
+    "absolute": -35
+  },
+
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+
+
+  "use_expansion_hack": false,
+
+
+  "spawn_overrides": {
+  }
+}

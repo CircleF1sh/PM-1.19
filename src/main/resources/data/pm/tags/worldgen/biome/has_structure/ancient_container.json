@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_jungle",
+    "#minecraft:is_forest",
+    "#minecraft:is_taiga",
+    "minecraft:desert",
+    "minecraft:badlands",
+    "minecraft:flower_forest",
+    "minecraft:lush_caves",
+    "minecraft:dripstone_caves",
+    "minecraft:savanna",
+    "minecraft:windswept_savanna",
+    "minecraft:savanna_plateau"
+  ]
+}

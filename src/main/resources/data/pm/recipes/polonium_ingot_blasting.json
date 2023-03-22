@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "pm:ancient_casing"
+  },
+  "result": "pm:polonium_ingot",
+  "experience": 2.0,
+  "cookingtime": 260
+}

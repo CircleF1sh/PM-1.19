@@ -1,0 +1,22 @@
+{
+  "item.pm.dwarf_crocodile_egg": "Dwarf Crocodile Spawn Egg",
+  "item.pm.terror_chicken_spawn_egg": "Terror Chicken Spawn Egg",
+
+  "item.pm.dwarf_crocodile_bucket": "Bucket of Dwarf Crocodile",
+
+  "item.pm.polonium_ingot": "Polonium Ingot",
+  "item.pm.polonium_nugget": "Polonium Nugget",
+  "item.pm.dwarf_crocodile_tooth": "Dwarf Crocodile Tooth",
+  "item.pm.terror_chicken_egg": "Terror Chicken Egg",
+
+  "block.pm.ancient_casing": "Ancient Casing",
+  "block.pm.ancient_casing_vent": "Ancient Casing Vent",
+  "block.pm.ancient_core": "Ancient Core",
+
+  "block.pm.evolutionists_table": "Evolutionists Table",
+
+  "entity.pm.dwarf_crocodile": "Dwarf Crocodile",
+  "entity.pm.terror_chicken": "Terror Chicken",
+
+  "itemGroup.pm": "Primeval Mimicry"
+}
